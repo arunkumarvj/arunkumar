@@ -313,10 +313,7 @@ section {
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .css {
   width: 65%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 50%;
-}
+
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
   width: 75%;
 }
